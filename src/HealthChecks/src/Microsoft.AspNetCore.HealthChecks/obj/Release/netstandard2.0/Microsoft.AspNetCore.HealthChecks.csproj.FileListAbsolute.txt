@@ -1,0 +1,12 @@
+F:\development\leadsplus\src\leadsplus\src\BuildingBlocks\HealthChecks\src\Microsoft.AspNetCore.HealthChecks\bin\Release\netstandard2.0\Microsoft.AspNetCore.HealthChecks.deps.json
+F:\development\leadsplus\src\leadsplus\src\BuildingBlocks\HealthChecks\src\Microsoft.AspNetCore.HealthChecks\bin\Release\netstandard2.0\Microsoft.AspNetCore.HealthChecks.dll
+F:\development\leadsplus\src\leadsplus\src\BuildingBlocks\HealthChecks\src\Microsoft.AspNetCore.HealthChecks\bin\Release\netstandard2.0\Microsoft.AspNetCore.HealthChecks.pdb
+F:\development\leadsplus\src\leadsplus\src\BuildingBlocks\HealthChecks\src\Microsoft.AspNetCore.HealthChecks\bin\Release\netstandard2.0\Microsoft.Extensions.HealthChecks.dll
+F:\development\leadsplus\src\leadsplus\src\BuildingBlocks\HealthChecks\src\Microsoft.AspNetCore.HealthChecks\bin\Release\netstandard2.0\Microsoft.Extensions.HealthChecks.pdb
+F:\development\leadsplus\src\leadsplus\src\BuildingBlocks\HealthChecks\src\Microsoft.AspNetCore.HealthChecks\obj\Release\netstandard2.0\Microsoft.AspNetCore.HealthChecks.csprojAssemblyReference.cache
+F:\development\leadsplus\src\leadsplus\src\BuildingBlocks\HealthChecks\src\Microsoft.AspNetCore.HealthChecks\obj\Release\netstandard2.0\Microsoft.AspNetCore.HealthChecks.csproj.CoreCompileInputs.cache
+F:\development\leadsplus\src\leadsplus\src\BuildingBlocks\HealthChecks\src\Microsoft.AspNetCore.HealthChecks\obj\Release\netstandard2.0\Microsoft.AspNetCore.HealthChecks.AssemblyInfoInputs.cache
+F:\development\leadsplus\src\leadsplus\src\BuildingBlocks\HealthChecks\src\Microsoft.AspNetCore.HealthChecks\obj\Release\netstandard2.0\Microsoft.AspNetCore.HealthChecks.AssemblyInfo.cs
+F:\development\leadsplus\src\leadsplus\src\BuildingBlocks\HealthChecks\src\Microsoft.AspNetCore.HealthChecks\obj\Release\netstandard2.0\Microsoft.AspNetCore.HealthChecks.csproj.CopyComplete
+F:\development\leadsplus\src\leadsplus\src\BuildingBlocks\HealthChecks\src\Microsoft.AspNetCore.HealthChecks\obj\Release\netstandard2.0\Microsoft.AspNetCore.HealthChecks.dll
+F:\development\leadsplus\src\leadsplus\src\BuildingBlocks\HealthChecks\src\Microsoft.AspNetCore.HealthChecks\obj\Release\netstandard2.0\Microsoft.AspNetCore.HealthChecks.pdb
